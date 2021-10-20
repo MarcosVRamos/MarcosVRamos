@@ -1,5 +1,5 @@
-# What's up, I'm Marcos 👋
-### I'm a Front-End Developer!
+### What's up, I'm Marcos 👋
+## I'm a Front-End Developer!
 
 ### Connect with me:
 
