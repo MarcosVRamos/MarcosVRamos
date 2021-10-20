@@ -1,8 +1,9 @@
 ### What's up, I'm Marcos 👋
 ## I'm a Front-End Developer!
 
-<li>🌱 I’m currently learning...</li>
+<li>🌱 I’m currently learning...🤣</li>
 <li>🥅 2021 Goals: Contribute more to Open Source projects.</li>
+<li>⚡ Hobbies: listening lo-fi and play with friends🎮
 
 ### Connect with me:
 
