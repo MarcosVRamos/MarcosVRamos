@@ -1,9 +1,7 @@
 ### What's up, I'm Marcos 👋
 ## I'm a Front-End Developer!
 
-<li>🌱 I’m currently learning ...</li>
-
-    
+<li>🌱 I’m currently learning...</li>
 
 ### Connect with me:
 
