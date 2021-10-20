@@ -3,7 +3,7 @@
 
 <li>🌱 I’m currently learning...🤣</li>
 <li>🥅 2021 Goals: Contribute more to Open Source projects.</li>
-<li>⚡ Hobbies: listening lo-fi and play with friends🎮
+<li>⚡ Hobbies: listening lo-fi and playing video games with friends🎮
 
 ### Connect with me:
 
