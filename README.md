@@ -2,7 +2,7 @@
 ## I'm a Front-End Developer!
 
 <li>🌱 I’m currently learning...🤣</li>
-<li>🥅 2021 Goals: Contribute more to Open Source projects.</li>
+<li>🥅 2022 Goals: Contribute more to Open Source projects.</li>
 <li>⚡ Hobbies: listening lo-fi and playing pc games🎮
 
 ### Connect with me:
