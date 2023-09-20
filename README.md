@@ -1,3 +1,30 @@
+### Hello, I'm Marcos! 👋
+## I'm a System Developer passionate about solving problems and creating useful solutions. 🚀
+
+## About Me
+- 🌱 Currently, I'm honing my skills in various technologies and frameworks.
+- 🥅 2023 Goals: Contribute more to Open Source projects.
+- ⚡ In my free time, I enjoy listening to lo-fi music and playing video games on my PC. 🎮
+
+## Technologies and Tools
+Here are some of the technologies and tools I work with and am interested in:
+
+- 💻 Programming Languages: Java, Python, JavaScript, etc.
+- 🌐 Web Development: HTML, CSS, React, Node.js, etc.
+- 🗃️ Databases: MySQL, MongoDB, PostgreSQL, etc.
+- 🛠️ Development Tools: Git, Visual Studio Code, IntelliJ IDEA, etc.
+
+<!--
+## Projects
+- 🔗 [Project 1](link_to_project1): Brief description of the project and link to the repository.
+- 🔗 [Project 2](link_to_project2): Brief description of the project and link to the repository.
+- ...
+-->
+
+## Contact
+- 💼 LinkedIn: [Marcos S. Vidal Ramos](https://www.linkedin.com/in/marcos-s-vidal-ramos-75b315220/)
+
+<!--
 ### What's up, I'm Marcos 👋
 ## I'm a System Development!
 
